@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Minthare/my-team-html-generator/issues"
   },
-  "homepage": "https://github.com/Minthare/my-team-html-generator#readme"
+  "homepage": "https://github.com/Minthare/my-team-html-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
